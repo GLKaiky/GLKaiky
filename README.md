@@ -1,16 +1,26 @@
-### Hi there 👋
+###  Welcome Ladys and Gentlemans
 
-<!--
-**GLKaiky/GLKaiky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+__About me:__
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a bachelor's student in computer science at PUC Minas, always trying to learn a little more,I prefer the C language and I like html.
+
+
+
+
+I'm a fan of the beatles and the mutants and the cake is delicious
+
+Last time profile was updated:18/04/23
+_____________________________________________________________________________________________________________________________________________________________________
+
+<h2>Languages I have experience with:</h2>
+
+<div class="icon" style="display:inline">
+<img style="width:40px; height:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
+<img style="width:40px; height:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
+<img style="width:40px; height:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img style="width:40px; height:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img style="width:40px; height:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img style="width:40px; height:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+
+</div>
