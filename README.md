@@ -24,3 +24,10 @@ ________________________________________________________________________________
 <img style="width:40px; height:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
 
 </div>
+
+
+@media (min-width: 769px) {
+
+.body img {
+display: inline
+}
