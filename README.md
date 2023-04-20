@@ -23,11 +23,8 @@ ________________________________________________________________________________
 <img style="width:40px; height:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img style="width:40px; height:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
 
-</div>
-
-
 @media (min-width: 769px) {
-
 .icon img {
 display: inline
 }
+</div>
