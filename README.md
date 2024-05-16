@@ -3,8 +3,7 @@
 __About me:__
 
 
-I'm a bachelor's student in computer science at PUC Minas, always trying to learn a little more,I prefer the C language and I like html.
-
+I'm a bachelor's student in computer science at PUC Minas, always trying to learn a little more,I prefer the C language.
 
 
 
