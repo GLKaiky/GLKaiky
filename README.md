@@ -8,7 +8,7 @@ I'm a bachelor's student in computer science at PUC Minas, always trying to lear
 
 
 
-I'm a fan of the beatles and the mutants and the cake is delicious
+The cake is delicious
 
 Last time profile was updated:18/04/23
 _____________________________________________________________________________________________________________________________________________________________________
