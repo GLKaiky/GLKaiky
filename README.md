@@ -16,7 +16,7 @@ The cake is delicious
 
 Last time profile was updated:02/10/24
 _____________________________________________________________________________________________________________________________________________________________________
-<h2>Languages I have experience with:</h2>
+<h2>Languages and Frameworks I have experience:</h2>
 
 <div class="icon" style="display:inline;">
 <img style="width:40px; height:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
