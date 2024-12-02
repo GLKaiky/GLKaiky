@@ -1,9 +1,11 @@
-###  Welcome Ladys and Gentlemans
+###  Welcome Ladies and Gentlemen
 
 __About me:__
 
 [en]
-I am a Computer Science student at PUC MG and graduated as a Computer Technician at Senac Minas, currently in the 4° period, creating experience in programming languages and data structures. Currently with emphasis on file manipulation, BackEnd programming and creation of FrontEnd;
+I am a Computer Science student at the Pontifical Catholic University of ✨Minas Gerais✨ and  I'm graduated as a Computer Technician from Senac Minas. 
+ I'm currently in the 4th semester of my bachelor´s degree; 
+ Creating experience in programming languages and data structures with emphasis on file manipulation, BackEnd programming and creation of FrontEnd;
 Check out some of my projects.
 
 [pt]
