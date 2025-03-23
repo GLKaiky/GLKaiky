@@ -22,8 +22,8 @@ ________________________________________________________________________________
 
 <div class="icon" style="display:inline;">
 <img style="width:40px; height:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
-<img style="width:40px; height:auto" src="java.gif" />
-<img style="width:40px; height:auto" src="js.gif" />
+<img style="width:40px; height:auto" src="java.webp" />
+<img style="width:40px; height:auto" src="js.webp" />
 <img style="width:40px; height:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />          
 <img style="width:40px; height:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />          
 <img style="width:40px; height:auto;" src="python.webp"  />
