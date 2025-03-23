@@ -26,7 +26,7 @@ ________________________________________________________________________________
 <img style="width:40px; height:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img style="width:40px; height:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />          
 <img style="width:40px; height:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />          
-<img style="width:40px; height: auto" src="./python.gif" />
+<img src="./python.gif" />
   
 </div>
 
