@@ -14,9 +14,9 @@ Confira alguns de meus projetos.
 
 
 
-The cake is delicious
+Mary I Love You!
 
-Last time profile was updated:02/10/24
+Last time profile was updated:23/03/25
 _____________________________________________________________________________________________________________________________________________________________________
 <h2>Languages and Frameworks I have experience:</h2>
 
