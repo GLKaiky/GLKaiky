@@ -21,15 +21,13 @@ ________________________________________________________________________________
 <h2>Languages and Frameworks I have experience:</h2>
 
 <div class="icon" style="display:inline;">
-<img style="width:40px; height:40px; gap:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
-<img style="width:40px; height:auto; gap:10px" src="java.webp" />
-<img style="width:40px; height:auto; gap:10px" src="js.webp" />
-<img style="width:40px; height:40px; gap:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />          
-<img style="width:40px; height:auto; gap:10px" src="flutter.gif" />          
-<img style="width:40px; height:auto; gap:10px" src="python.webp"  />
-  
+    <img style="width:40px; height:40px; margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
+    <img style="width:40px; height:auto; margin-right: 10px;" src="java.webp" />
+    <img style="width:40px; height:auto; margin-right: 10px;" src="js.webp" />
+    <img style="width:40px; height:40px; margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />          
+    <img style="width:40px; height:auto; margin-right: 10px;" src="flutter.gif" />          
+    <img style="width:40px; height:auto;" src="python.webp"  />
 </div>
-
 
 </br></br>
 ![Alt Text](https://media4.giphy.com/media/5PSPV1ucLX31u/giphy.gif)
