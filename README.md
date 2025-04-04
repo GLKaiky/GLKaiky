@@ -29,7 +29,39 @@ ________________________________________________________________________________
     <img style="width:40px; height:auto;" src="python.webp"  />
 </div>
 
-<a href="https://kaikyfrs.com.br">aaaaa</a>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+      <div class="wrapper">
+         <a href="#" class="button">
+            <div class="icon">
+               <i class="fab fa-facebook-f"></i>
+            </div>
+            <span>Facebook</span>
+         </a>
+         <a href="#" class="button">
+            <div class="icon">
+               <i class="fab fa-twitter"></i>
+            </div>
+            <span>Twitter</span>
+         </a>
+         <a href="#" class="button">
+            <div class="icon">
+               <i class="fab fa-instagram"></i>
+            </div>
+            <span>Instagram</span>
+         </a>
+         <a href="#" class="button">
+            <div class="icon">
+               <i class="fab fa-github"></i>
+            </div>
+            <span>Github</span>
+         </a>
+         <a href="#" class="button">
+            <div class="icon">
+               <i class="fab fa-youtube"></i>
+            </div>
+            <span>YouTube</span>
+         </a>
+      </div>
 
 </br></br>
 ![Alt Text](https://media4.giphy.com/media/5PSPV1ucLX31u/giphy.gif)
