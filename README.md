@@ -29,39 +29,46 @@ ________________________________________________________________________________
     <img style="width:40px; height:auto;" src="python.webp"  />
 </div>
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
-      <div class="wrapper">
-         <a href="#" class="button">
-            <div class="icon">
-               <i class="fab fa-facebook-f"></i>
-            </div>
-            <span>Facebook</span>
-         </a>
-         <a href="#" class="button">
-            <div class="icon">
-               <i class="fab fa-twitter"></i>
-            </div>
-            <span>Twitter</span>
-         </a>
-         <a href="#" class="button">
-            <div class="icon">
-               <i class="fab fa-instagram"></i>
-            </div>
-            <span>Instagram</span>
-         </a>
-         <a href="#" class="button">
-            <div class="icon">
-               <i class="fab fa-github"></i>
-            </div>
-            <span>Github</span>
-         </a>
-         <a href="#" class="button">
-            <div class="icon">
-               <i class="fab fa-youtube"></i>
-            </div>
-            <span>YouTube</span>
-         </a>
+<div class="wrapper">
+   <a href="#" class="button" style="
+      display: inline-block;
+      height: 60px;
+      width: 60px;
+      float: left;
+      text-decoration: none;
+      margin: 0 5px;
+      overflow: hidden;
+      background: #fff;
+      border-radius: 50px;
+      cursor: pointer;
+      box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.1);
+      transition: all 0.3s ease-out;"
+      onmouseover="this.style.width='200px';" onmouseout="this.style.width='60px';">
+      <div class="icon" style="
+         display: inline-block;
+         height: 60px;
+         width: 60px;
+         color: #000;
+         text-align: center;
+         border-radius: 50px;
+         box-sizing: border-box;
+         line-height: 60px;
+         transition: all 0.3s ease-out;"
+         onmouseover="this.style.background='#4267B2'; this.firstElementChild.style.color='#fff';"
+         onmouseout="this.style.background=''; this.firstElementChild.style.color='#000';">
+         <i class="fab fa-facebook-f" style="font-size: 25px; line-height: 60px; transition: all 0.3s ease-out;"></i>
       </div>
+      <span style="
+         font-size: 20px;
+         font-weight: 500;
+         line-height: 60px;
+         margin-left: 10px;
+         color: #4267B2;
+         transition: all 0.3s ease-out;">Facebook</span>
+   </a>
+
+   <a href="#" class="button" style="..."></a>
+</div>
 
 </br></br>
 ![Alt Text](https://media4.giphy.com/media/5PSPV1ucLX31u/giphy.gif)
