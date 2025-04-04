@@ -28,48 +28,44 @@ ________________________________________________________________________________
     <img style="width:40px; height:auto; margin-right: 10px;" src="flutter.gif" />          
     <img style="width:40px; height:auto;" src="python.webp"  />
 </div>
-
-<div class="wrapper">
-   <a href="#" class="button" style="
-      display: inline-block;
-      height: 60px;
-      width: 60px;
-      float: left;
-      text-decoration: none;
-      margin: 0 5px;
-      overflow: hidden;
-      background: #fff;
-      border-radius: 50px;
-      cursor: pointer;
-      box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.1);
-      transition: all 0.3s ease-out;"
-      onmouseover="this.style.width='200px';" onmouseout="this.style.width='60px';">
-      <div class="icon" style="
-         display: inline-block;
-         height: 60px;
-         width: 60px;
-         color: #000;
-         text-align: center;
-         border-radius: 50px;
-         box-sizing: border-box;
-         line-height: 60px;
-         transition: all 0.3s ease-out;"
-         onmouseover="this.style.background='#4267B2'; this.firstElementChild.style.color='#fff';"
-         onmouseout="this.style.background=''; this.firstElementChild.style.color='#000';">
-         <i class="fab fa-facebook-f" style="font-size: 25px; line-height: 60px; transition: all 0.3s ease-out;"></i>
-      </div>
-      <span style="
-         font-size: 20px;
-         font-weight: 500;
-         line-height: 60px;
-         margin-left: 10px;
-         color: #4267B2;
-         transition: all 0.3s ease-out;">Facebook</span>
-   </a>
-
-   <a href="#" class="button" style="..."></a>
-</div>
-
+    <div class="wrapper">
+        <a href="#" class="button" style="
+           display: inline-block;
+           height: 60px;
+           width: 60px;
+           text-decoration: none;
+           margin: 0 5px;
+           overflow: hidden;
+           background: #fff;
+           border-radius: 50px;
+           cursor: pointer;
+           box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.1);
+           transition: all 0.3s ease-out;"
+           onmouseover="this.style.width='200px';" onmouseout="this.style.width='60px';">
+           <div class="icon" style="
+              display: inline-block;
+              height: 60px;
+              width: 60px;
+              color: #000;
+              text-align: center;
+              border-radius: 50px;
+              box-sizing: border-box;
+              line-height: 60px;
+              transition: all 0.3s ease-out;"
+              onmouseover="this.style.background='#4267B2'; this.firstElementChild.style.color='#fff';"
+              onmouseout="this.style.background=''; this.firstElementChild.style.color='#000';">
+              <i class="fab fa-facebook-f" style="font-size: 25px; line-height: 60px; transition: all 0.3s ease-out;"></i>
+           </div>
+           <span style="
+              font-size: 20px;
+              font-weight: 500;
+              line-height: 60px;
+              margin-left: 10px;
+              color: #4267B2;
+              transition: all 0.3s ease-out;">Facebook</span>
+        </a>
+        <a href="#" class="button" ></a> 
+     </div>
 </br></br>
 ![Alt Text](https://media4.giphy.com/media/5PSPV1ucLX31u/giphy.gif)
 
