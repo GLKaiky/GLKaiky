@@ -28,13 +28,6 @@ Last time profile was updated:04/04/25
      <img style="width:40px; height:auto;" src="./src/img/python.webp"  />
 </p>
 
-## 🎧 Now Playing on Spotify
- 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=glkaiky&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=4abb44&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=glkaiky&redirect=true)
-
-> “Presto con Fuoco!”  
-> – For Mary and Kirian — the rhythm of my heart.
-
 </br></br>
 
 ## Contributions
@@ -75,3 +68,10 @@ Last time profile was updated:04/04/25
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/glkaiky/glkaiky/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/glkaiky/glkaiky/output/github-contribution-grid-snake.svg">
 </picture>
+
+## 🎧 Now Playing on Spotify
+ 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=glkaiky&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=4abb44&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=glkaiky&redirect=true)
+
+> “Presto con Fuoco!”  
+> – For Mary and Kirian — the rhythm of my heart.
