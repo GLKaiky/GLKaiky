@@ -20,14 +20,14 @@ Last time profile was updated:04/04/25
 
 <p align="center">
   <a href="mailto:kaikyfrs.comp@gmail.com" target="_blank">
-    <img src="./src/img/gmail.webp" alt="Gmail" width="100%" height="auto" />
+    <img src="./src/img/gmail.webp" alt="Gmail" width="50px" height="auto" />
   </a>
   <a href="https://www.linkedin.com/in/glkaiky/" target="_blank">
-    <img src="./src/img/linkedin.webp" alt="LinkedIn" width="100%" height="auto" />
+    <img src="./src/img/linkedin.webp" alt="LinkedIn" width="50px" height="auto" />
   </a>
 
   <a href="https://kaikyfrs.com.br" target="_blank">
-    <img src="./src/img/site.webp" alt="Meu portifólio" width="100%" height="auto" />
+    <img src="./src/img/site.webp" alt="Meu portifólio" width="50px" height="auto" />
 </p>
 
 
