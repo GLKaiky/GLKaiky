@@ -75,4 +75,8 @@ Last time profile was updated:04/04/25
 
 ## 🎧 Now Playing on Spotify
 
+<p align="center">
+ 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=glkaiky&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=4abb44&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=glkaiky&redirect=true)
+
+</p>
