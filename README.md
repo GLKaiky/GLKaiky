@@ -20,7 +20,7 @@ Last time profile was updated:04/04/25
 
 <p align="center">
   <a href="mailto:kaikyfrs.comp@gmail.com" target="_blank">
-    <img style="margin-right: 50px;" src="./src/img/gmail.webp" alt="Gmail" width="80" />
+    <img style="margin-right: 50px;" src="./src/img/gmail.webp" alt="Gmail" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/glkaiky/" target="_blank">
