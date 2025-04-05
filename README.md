@@ -17,7 +17,8 @@ Last time profile was updated:04/04/25
 
 
 
-<h2>Languages and Frameworks:</h2>
+## Languages and Frameworks:
+<br>
 
 <p align="center">
      <img style="width:55px; height:55px; margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
@@ -27,8 +28,6 @@ Last time profile was updated:04/04/25
      <img style="width:55px; height:auto; margin-right: 10px;" src="./src/img/flutter.gif" />          
      <img style="width:55px; height:auto;" src="./src/img/python.webp"  />
 </p>
-
-</br></br>
 
 ## Contributions
 <br>
