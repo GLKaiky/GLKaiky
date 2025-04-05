@@ -32,8 +32,7 @@ Last time profile was updated:04/04/25
     <img style="width:40px; height:auto;" src="./src/img/python.webp"  />
 </div>
 
-</br></br>
-![Alt Text](https://media4.giphy.com/media/5PSPV1ucLX31u/giphy.gif)
+</br></br></br></br></br></br>
 
 <p align="center">
   <a href="mailto:kaikyfrs.comp@gmail.com" target="_blank">
