@@ -18,11 +18,16 @@ Mary I Love You!
 
 Last time profile was updated:04/04/25
 
-<h2>Languages and Frameworks:</h2>
+<p align="center">
+  <a href="mailto:kaikyfrs.comp@gmail.com" target="_blank">
+    <img src="./src/img/gmail.webp" alt="Gmail" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/glkaiky/" target="_blank">
+    <img src="./src/img/linkedin.webp" alt="LinkedIn" width="40" />
+  </a>
+</p>
 
-<div class="media" style="display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center;">
-  <a href="mailto:kaikyfrs.comp@gmail.com" target="_blank"><img src="./src/img/gmail.webp" alt="Imagem" style="max-width: 100%; height: auto; image-rendering: auto;"></a>
-</div>  
+<h2>Languages and Frameworks:</h2>
 
 
 <div class="icon" style="display:inline;">
