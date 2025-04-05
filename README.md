@@ -18,20 +18,6 @@ Mary I Love You!
 
 Last time profile was updated:04/04/25
 
-<p align="center">
-  <a href="mailto:kaikyfrs.comp@gmail.com" target="_blank">
-    <img style="margin-right: 50px;" src="./src/img/gmail.webp" alt="Gmail" width="50" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/glkaiky/" target="_blank">
-    <img style="margin-right: 50px;" src="./src/img/linkedin.webp" alt="LinkedIn" width="50" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://kaikyfrs.com.br" target="_blank">
-    <img src="./src/img/site.webp" alt="Meu portfólio" width="50" />
-  </a>
-</p>
-
 
 
 <h2>Languages and Frameworks:</h2>
@@ -48,6 +34,22 @@ Last time profile was updated:04/04/25
 
 </br></br>
 ![Alt Text](https://media4.giphy.com/media/5PSPV1ucLX31u/giphy.gif)
+
+<p align="center">
+  <a href="mailto:kaikyfrs.comp@gmail.com" target="_blank">
+    <img style="margin-right: 50px;" src="./src/img/gmail.webp" alt="Gmail" width="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/glkaiky/" target="_blank">
+    <img style="margin-right: 50px;" src="./src/img/linkedin.webp" alt="LinkedIn" width="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://kaikyfrs.com.br" target="_blank">
+    <img src="./src/img/site.webp" alt="Meu portfólio" width="50" />
+  </a>
+</p>
+
+
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/glkaiky/glkaiky/output/github-contribution-grid-snake-dark.svg">
