@@ -18,7 +18,7 @@ Mary I Love You!
 
 Last time profile was updated:23/03/25
 _____________________________________________________________________________________________________________________________________________________________________
-<h2>Languages and Frameworks I have experience:</h2>
+<h2>Languages and Frameworks:</h2>
 
 
 <div class="icon" style="display:inline;">
