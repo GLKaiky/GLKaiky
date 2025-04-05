@@ -45,9 +45,10 @@ Last time profile was updated:04/04/25
 ![glkaiky's Stats](https://github-readme-stats.vercel.app/api?username=glkaiky&theme=dark&show_icons=true&hide_border=true&count_private=true)
 ![glkaiky's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=glkaiky&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
-<br><br>
 
 ## Social Media
+<br>
+
 <p align="center">
   <a href="mailto:kaikyfrs.comp@gmail.com" target="_blank">
     <img style="margin-right: 50px;" src="./src/img/gmail.png" alt="Gmail" width="80" />
