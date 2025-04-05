@@ -23,14 +23,12 @@ Last time profile was updated:04/04/25
 <h2>Languages and Frameworks:</h2>
 
 <p align="center">
- <div class="icon" style="display:inline;">
      <img style="width:40px; height:40px; margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
      <img style="width:40px; height:auto; margin-right: 10px;" src="./src/img/java.webp" />
      <img style="width:40px; height:auto; margin-right: 10px;" src="./src/img/js.webp" />
      <img style="width:40px; height:40px; margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />          
      <img style="width:40px; height:auto; margin-right: 10px;" src="./src/img/flutter.gif" />          
      <img style="width:40px; height:auto;" src="./src/img/python.webp"  />
- </div>
 </p>
 
 </br></br>
