@@ -13,9 +13,6 @@ Sou estudante de Ciência da Computação pela PUC MG e formado como Técnico em
 Confira alguns de meus projetos.
 
 
-
-Mary I Love You!
-
 Last time profile was updated:04/04/25
 
 
@@ -65,6 +62,12 @@ Last time profile was updated:04/04/25
   </a>
 </p>
 
+## 🎧 Now Playing on Spotify
+ 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=glkaiky&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=4abb44&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=glkaiky&redirect=true)
+
+> “presto con fuoco!”  
+> – Mary I Love You
 
 
 <picture align="center">
@@ -72,7 +75,3 @@ Last time profile was updated:04/04/25
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/glkaiky/glkaiky/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/glkaiky/glkaiky/output/github-contribution-grid-snake.svg">
 </picture>
-
-## 🎧 Now Playing on Spotify
- 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=glkaiky&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=4abb44&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=glkaiky&redirect=true)
