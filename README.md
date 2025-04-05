@@ -16,18 +16,22 @@ Confira alguns de meus projetos.
 
 Mary I Love You!
 
-Last time profile was updated:23/03/25
-_____________________________________________________________________________________________________________________________________________________________________
+Last time profile was updated:04/04/25
+
 <h2>Languages and Frameworks:</h2>
+
+<div class="media" style="display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center;">
+  <a href="mailto:kaikyfrs.comp@gmail.com" target="_blank"><img src="./src/img/gmail.webp" alt="Imagem" style="max-width: 100%; height: auto; image-rendering: auto;"></a>
+</div>  
 
 
 <div class="icon" style="display:inline;">
     <img style="width:40px; height:40px; margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
-    <img style="width:40px; height:auto; margin-right: 10px;" src="java.webp" />
-    <img style="width:40px; height:auto; margin-right: 10px;" src="js.webp" />
+    <img style="width:40px; height:auto; margin-right: 10px;" src="./src/img/java.webp" />
+    <img style="width:40px; height:auto; margin-right: 10px;" src="./src/img/js.webp" />
     <img style="width:40px; height:40px; margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />          
-    <img style="width:40px; height:auto; margin-right: 10px;" src="flutter.gif" />          
-    <img style="width:40px; height:auto;" src="python.webp"  />
+    <img style="width:40px; height:auto; margin-right: 10px;" src="./src/img/flutter.gif" />          
+    <img style="width:40px; height:auto;" src="./src/img/python.webp"  />
 </div>
 
 </br></br>
