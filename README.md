@@ -32,7 +32,7 @@ Last time profile was updated:04/04/25
     <img style="width:40px; height:auto;" src="./src/img/python.webp"  />
 </div>
 
-</br></br></br></br></br>
+</br></br>
 
 ## Contributions
 ![Github Contributions](https://greptile-stats.vercel.app/api/widget/glkaiky/contributions)
