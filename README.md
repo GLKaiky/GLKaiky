@@ -20,15 +20,18 @@ Last time profile was updated:04/04/25
 
 <p align="center">
   <a href="mailto:kaikyfrs.comp@gmail.com" target="_blank">
-    <img src="./src/img/gmail.webp" alt="Gmail" width="80px" height="auto" style="margin-right: 50px;" >
+    <img src="./src/img/gmail.webp" alt="Gmail" width="80" style="margin-right: 50px;">
   </a>
+  
   <a href="https://www.linkedin.com/in/glkaiky/" target="_blank">
-    <img src="./src/img/linkedin.webp" alt="LinkedIn" width="80px" height="auto" style="margin-right: 50px;" />
+    <img src="./src/img/linkedin.webp" alt="LinkedIn" width="80" style="margin-right: 50px;">
   </a>
-
+  
   <a href="https://kaikyfrs.com.br" target="_blank">
-    <img src="./src/img/site.webp" alt="Meu portifólio" width="80px" height="auto" style="margin-right: 50px;" />
+    <img src="./src/img/site.webp" alt="Meu portfólio" width="80">
+  </a>
 </p>
+
 
 
 <h2>Languages and Frameworks:</h2>
