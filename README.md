@@ -33,12 +33,16 @@ Last time profile was updated:04/04/25
 </div>
 
 </br></br></br></br></br>
+## Contributions
+
+![Github Contributions](https://greptile-stats.vercel.app/api/widget/glkaiky/contributions)
+
+
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=glkaiky&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glkaiky&layout=compact&langs_count=10"/>
+ ![glkaiky's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=glkaiky&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 </p>
 
 
