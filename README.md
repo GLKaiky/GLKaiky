@@ -72,3 +72,8 @@ Last time profile was updated:04/04/25
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/glkaiky/glkaiky/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/glkaiky/glkaiky/output/github-contribution-grid-snake.svg">
 </picture>
+
+## 🎧 Now Playing on Spotify
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=glkaiky&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/glkaiky)
+
