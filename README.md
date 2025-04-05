@@ -75,5 +75,4 @@ Last time profile was updated:04/04/25
 
 ## 🎧 Now Playing on Spotify
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=glkaiky&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/glkaiky)
-
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0Wuz8AKWxTcmf59rsXxNqd?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
