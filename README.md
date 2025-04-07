@@ -15,7 +15,7 @@ Confira alguns de meus projetos.
 
 Last time profile was updated:04/04/25
 
-
+[![Trophy](https://github-profile-trophy.vercel.app/?username=glkaiky&theme=darkhub&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Languages and Frameworks:
 <br>
@@ -29,7 +29,6 @@ Last time profile was updated:04/04/25
      <img style="width:55px; height:auto;" src="./src/img/python.webp"  />
 </p>
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=glkaiky&theme=darkhub&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📊 GitHub Stats
 <br>
