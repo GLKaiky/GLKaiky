@@ -29,11 +29,8 @@ Last time profile was updated:04/04/25
      <img style="width:55px; height:auto;" src="./src/img/python.webp"  />
 </p>
 
-## Contributions
-<br>
 
-![Github Contributions](https://greptile-stats.vercel.app/api/widget/glkaiky/contributions)
-
+![Tech](https://img.shields.io/badge/Made%20with-❤️%20+%20Coffee-critical)
 
 ## 📊 GitHub Stats
 <br>
