@@ -47,38 +47,17 @@ Last time profile was updated:04/04/25
 
 <p align="center">
   <a href="mailto:kaikyfrs.comp@gmail.com" target="_blank">
-    <img 
-      src="./src/img/gmail.png" 
-      alt="Gmail" 
-      width="80" 
-      style="margin-right: 50px; transition: transform 0.3s ease; cursor: pointer;" 
-      onmouseover="this.style.transform='scale(1.1)'" 
-      onmouseout="this.style.transform='scale(1)'"
-    />
+    <img style="margin-right: 50px;" src="./src/img/gmail.png" alt="Gmail" width="80" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.linkedin.com/in/glkaiky/" target="_blank">
-    <img 
-      src="./src/img/linkedin.png" 
-      alt="LinkedIn" 
-      width="80" 
-      style="margin-right: 50px; transition: transform 0.3s ease; cursor: pointer;" 
-      onmouseover="this.style.transform='scale(1.1)'" 
-      onmouseout="this.style.transform='scale(1)'"
-    />
+    <img style="margin-right: 50px;" src="./src/img/linkedin.png" alt="LinkedIn" width="80" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://kaikyfrs.com.br" target="_blank">
-    <img 
-      src="./src/img/site.png" 
-      alt="Meu portfólio" 
-      width="80" 
-      style="transition: transform 0.3s ease; cursor: pointer;" 
-      onmouseover="this.style.transform='scale(1.1)'" 
-      onmouseout="this.style.transform='scale(1)'"
-    />
+    <img src="./src/img/site.png" alt="Meu portfólio" width="80" />
   </a>
 </p>
 
