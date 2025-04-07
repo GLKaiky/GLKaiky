@@ -31,7 +31,6 @@ Last time profile was updated:04/04/25
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=glkaiky&theme=darkhub&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
-
 ## 📊 GitHub Stats
 <br>
 
