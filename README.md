@@ -13,9 +13,7 @@ Sou estudante de Ciência da Computação pela PUC MG e formado como Técnico em
 Confira alguns de meus projetos.
 
 
-Last time profile was updated:04/04/25
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=glkaiky&theme=darkhub&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+Last time profile was updated:31/10/25
 
 ## Languages and Frameworks:
 <br>
@@ -67,5 +65,5 @@ Last time profile was updated:04/04/25
  
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=glkaiky&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=4abb44&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=glkaiky&redirect=true)
 
-> “Presto con Fuoco!”  
-> – 11 months with you . I Love you my sweet Mary.
+> “Presto con Fuoco!”
+> "
