@@ -65,5 +65,5 @@ Last time profile was updated:31/10/25
  
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=glkaiky&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=4abb44&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=glkaiky&redirect=true)
 
-> “Presto con Fuoco!”
+> “Presto con Fuoco!” <br>
 > "Nessun maggior dolore che ricordarsi del tempo felice ne la miseria" - Dante Alighieri
