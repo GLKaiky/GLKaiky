@@ -4,16 +4,16 @@ __About me:__
 
 [en]
 I am a Computer Science student at the Pontifical Catholic University of ✨Minas Gerais✨ and  I'm graduated as a Computer Technician from Senac Minas. 
- I'm currently in the 4th semester of my bachelor´s degree; 
+ I'm currently in the 6th semester of my bachelor´s degree; 
  Creating experience in programming languages and data structures with emphasis on file manipulation, BackEnd programming and creation of FrontEnd;
 Check out some of my projects.
 
 [pt]
-Sou estudante de Ciência da Computação pela PUC MG e formado como Técnico em Informática pelo Senac Minas, atualmente no 4° período, criando experiência em linguagens de programação e estruturas de dados. Atualmente com ênfase em manipulação de arquivos, programação de BackEnd e criação de FrontEnd;
+Sou estudante de Ciência da Computação pela PUC MG e formado como Técnico em Informática pelo Senac Minas, atualmente no 6° período, criando experiência em linguagens de programação e estruturas de dados. Atualmente com ênfase em manipulação de arquivos, programação de BackEnd e criação de FrontEnd;
 Confira alguns de meus projetos.
 
 
-Last time profile was updated:31/10/25
+Last time profile was updated:03/02/26
 
 ## Languages and Frameworks:
 <br>
