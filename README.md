@@ -63,7 +63,7 @@ Last time profile was updated:03/02/26
 
 ## 🎧 Now Playing on Spotify
  
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=glkaiky&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=4abb44&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=glkaiky&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=glkaiky&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=9141ac&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 > “Presto con Fuoco!” <br>
 > "Nessun maggior dolore che ricordarsi del tempo felice ne la miseria" - Dante Alighieri
