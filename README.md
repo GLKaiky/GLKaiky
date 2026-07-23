@@ -18,21 +18,18 @@ Last time profile was updated:03/02/26
 ## Languages and Frameworks:
 <br>
 
-<p align="center">
-     <img style="width:55px; height:55px; margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
-     <img style="width:55px; height:auto; margin-right: 10px;" src="./src/img/java.webp" />
-     <img style="width:55px; height:auto; margin-right: 10px;" src="./src/img/js.webp" />
-     <img style="width:55px; height:55px; margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />          
-     <img style="width:55px; height:auto; margin-right: 10px;" src="./src/img/flutter.gif" />          
-     <img style="width:55px; height:auto;" src="./src/img/python.webp"  />
-</p>
+**Backend & Arquitetura**  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+**Dados & Automação**  
+![ExcelScript](https://img.shields.io/badge/ExcelScript-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-## 📊 GitHub Stats
-<br>
-
-![glkaiky's Stats](https://github-readme-stats.vercel.app/api?username=glkaiky&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![glkaiky's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=glkaiky&theme=dark&show_icons=true&hide_border=true&layout=compact)
+**Frontend & Mobile**  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 
 ## Social Media
